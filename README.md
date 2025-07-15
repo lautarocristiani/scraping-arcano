@@ -34,7 +34,7 @@ Todo esto, con un sistema de logs encantado estilo *"modo fantasía"* que te aco
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/TU_USUARIO/scraping-arcano.git
+   git clone https://github.com/lautarocristiani/scraping-arcano.git
    cd scraping-arcano
    ```
 
